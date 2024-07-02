@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Software Engineer by day 🌞 and ninja by night 🌝
+Software engineer by day 🌞 and ninja by night 🌝
 
-Currently working @skelloapp
+Currently working @skelloapp <br>
 Also working on a personal secret project 🕵️
 
 <!--START_SECTION:waka-->
