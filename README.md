@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Software Engineer by day 🌞 and ninja by night 🌝
+
+Currently working @skelloapp
+Also working on a personal secret project 🕵️
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **antoinelncl/antoinelncl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
